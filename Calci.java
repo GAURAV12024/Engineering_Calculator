@@ -2,7 +2,7 @@ class Calci{
 
     //num1 : first number
     //num2: second number
-    
+
     //addition function to add two number 
     public static int add(num1,num2){
 
@@ -19,6 +19,11 @@ class Calci{
      public static int multiply(num1,num2){
         
         return num1*num2; //return product of two number
+    }
+    //division function to divide two number 
+    public static int divide(num1,num2){
+        
+        return num1/num2; //return division of two number
     }
     
 
