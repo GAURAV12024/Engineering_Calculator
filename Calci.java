@@ -25,6 +25,14 @@ class Calci{
         
         return num1/num2; //return division of two number
     }
+    //function to get remainder when we divide two number 
+    public static int remainder(num1,num2){
+        
+        return num1 % num2; //return remainder when we divide num1 by num2
+
+    }
+
+    
     
 
    
