@@ -26,6 +26,12 @@ class Calci{
         
         return num1*num1; //return square of a number
     }
+
+    //SquareRoot function to get squareRoot of a number 
+    public static int squareRoot(num1){
+        
+        return Math.sqrt(num1); //return squareRoot of a number
+    }
     
 
    
