@@ -20,6 +20,12 @@ class Calci{
         
         return num1*num2; //return product of two number
     }
+
+    //Square function to get square of number 
+    public static int square(num1){
+        
+        return num1*num1; //return square of a number
+    }
     
 
    
