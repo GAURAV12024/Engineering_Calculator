@@ -20,6 +20,14 @@ class Calci{
         
         return num1*num2; //return product of two number
     }
+
+     //Cube function to get cube of a number 
+     public static int Cube(num1){
+        
+        return num1*num1*num1; //return product of two number
+    }
+
+
     
 
    
